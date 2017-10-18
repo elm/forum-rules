@@ -1,6 +1,6 @@
 # Forum Rules
 
-Posters who demonstrate an **PATTERN** of participation in **CONFLICT** may be banned from any Elm **FORUM**.
+Posters who demonstrate a **PATTERN** of participation in **CONFLICT** may be banned from any Elm **FORUM**.
 
 
 ### What is a FORUM?
@@ -17,7 +17,7 @@ Everyone comes into a discussion with different perspectives and information. Sh
 A CONLFICT is an interaction which distracts or detracts from the FORUM goals of encouraging friendships, mentorships, and collaborations aligned with Elm’s goals.
 
 
-### What is an PATTERN?
+### What is a PATTERN?
 
 People with the best intentions can find themselves participating in CONFLICT quite easily online.
 
