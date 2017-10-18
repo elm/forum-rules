@@ -1,26 +1,23 @@
 # Forum Rules
 
-Posters who demonstrate an PATTERN of participation in CONFLICT may be banned from any Elm FORUM.
+Posters who demonstrate an **PATTERN** of participation in **CONFLICT** may be banned from any Elm **FORUM**.
 
-<br>
 
-## What is a FORUM?
+### What is a FORUM?
 
 The goal of a FORUM is to encourage friendships, mentorships, and collaborations aligned with Elm’s goals.
 
 A FORUM is open to participation from anyone with any background, assuming that participation is aligned with the goals of the FORUM.
 
-<br>
 
-## What is CONFLICT?
+### What is CONFLICT?
 
 Everyone comes into a discussion with different perspectives and information. Sharing this diversity is a necessary part of communicating in a FORUM, and it can be a wonderful thing!
 
 A CONLFICT is an interaction which distracts or detracts from the FORUM goals of encouraging friendships, mentorships, and collaborations aligned with Elm’s goals.
 
-<br>
 
-## What is an PATTERN?
+### What is an PATTERN?
 
 People with the best intentions can find themselves participating in CONFLICT quite easily online.
 
